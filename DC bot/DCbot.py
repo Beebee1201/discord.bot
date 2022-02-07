@@ -265,4 +265,4 @@ async def r(ctx):
          print('{}. {} : {}'.format(counterOfLoop+1,rankedName[counterOfLoop],rankedScore[counterOfLoop]))
          counterOfLoop += 1
 
-bot.run('ODYwMDY0NDA0MTY3MTk2Njgz.YN1zZQ.MlyjSaaMUClHDb9V9s2FcApcoSI')
+bot.run('')
